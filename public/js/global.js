@@ -20,8 +20,8 @@
   Tinycon.setOptions({
     width: 9,
     height: 11,
-    font: '10px Inconsolata',
-    colour: '#5bdeff',
+    font: '12px Inconsolata',
+    colour: '#f00',
     background: '#fff',
     fallback: false
   });
